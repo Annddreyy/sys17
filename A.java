@@ -1,0 +1,1 @@
+package com.example.cookingapp.model;public class A {public int B;public String C;public String D;public A(int B,String C,String D) {this.B=B;this.C=C;this.D=D;}}
